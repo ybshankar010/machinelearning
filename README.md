@@ -11,7 +11,7 @@ This repo is still a work in progress. Currently, we have following projects. Th
 <br/>
 
 ## Basic requirements
-Step-1: Make sure you have [Anaconda environment](https://www.anaconda.com/download/) installed.
+Step-1: Make sure you have [Anaconda environment](https://www.anaconda.com/download/) installed. <br/>
 Step-2: Then install [Tensorflow](https://www.tensorflow.org/install/) on your system, and clone this repo.
 
 <br/>
@@ -32,6 +32,6 @@ git clone https://github.com/ybshankar010/notebooks.git
 
 ```javascript
 
-``Note:`` Change your dataset path when working with notebooks.
+Note: Change your dataset path when working with notebooks.
 
 ```
