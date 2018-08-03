@@ -1,4 +1,4 @@
-<img src="https://icon2.kisspng.com/20180206/xlq/kisspng-ant-cartoon-ants-applause-5a799e32ae2e72.8330569215179197947135.jpg" alt="Ant Cartoon - Ants applause @kisspng">
+<img src="https://icon2.kisspng.com/20180206/xlq/kisspng-ant-cartoon-ants-applause-5a799e32ae2e72.8330569215179197947135.jpg" alt="Ant Cartoon - Ants applause @kisspng" align = "right">
 
 # Crazy @.n.t.s ML repository
 
@@ -26,13 +26,13 @@ Step-2: Then install [Tensorflow](https://www.tensorflow.org/install/) on your s
 
 ## Clone repo
 
-> $ git clone https://github.com/ybshankar010/notebooks.git
+> $ git clone https://github.com/ybshankar010/machinelearning.git
 
 
 <br/>
 
 ```javascript
 
-*Note:* Change your dataset path when working with notebooks.
+Note: Change your dataset path when working with notebooks.
 
 ```
