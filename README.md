@@ -1,4 +1,4 @@
-<img src="https://icon2.kisspng.com/20180206/xlq/kisspng-ant-cartoon-ants-applause-5a799e32ae2e72.8330569215179197947135.jpg" alt="Ant Cartoon - Ants applause @kisspng" align = "right">
+<img src="https://github.com/ybshankar010/machinelearning/blob/master/images/logo.png" alt="Ant Cartoon - Ants applause @kisspng" align = "right">
 
 # Crazy @.n.t.s ML repository
 
